@@ -12,9 +12,9 @@
 
 ## 🚀 About Me
 
-💻 Frontend Developer passionate about building clean, responsive and user-friendly web applications.
+Frontend Developer passionate about building clean, responsive and user-friendly web applications.
 
-🌍 I enjoy transforming ideas into interactive digital experiences using modern frontend technologies.
+I enjoy transforming ideas into interactive digital experiences using modern frontend technologies.
 
 📚 Currently learning:
 
