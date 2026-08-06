@@ -164,6 +164,16 @@ https://github.com/AkinJosh8/github-user-finder
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/AkinJosh8/AkinJosh8/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
 # 🌐 Connect with Me
 
 📧 **Email**
