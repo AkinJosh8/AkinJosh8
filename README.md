@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Akinleye Idowu Joshua
+# Hi, I'm Akinleye Idowu Joshua
 
 ### Frontend Developer • React Developer • Building Beautiful User Experiences
 
