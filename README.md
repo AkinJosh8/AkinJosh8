@@ -1,151 +1,189 @@
-<h1 align="center">Hi 👋, I'm Akinleye Idowu Joshua</h1>
+<div align="center">
 
-<h3 align="center">
-Frontend Developer • React Developer • Building Modern Web Experiences
-</h3>
+# Hi 👋 I'm Akinleye Idowu Joshua
 
-<p align="center">
-Building clean, responsive and user-friendly web applications with React, JavaScript and modern frontend tools.
-</p>
+### Frontend Developer • React Developer • Building Beautiful User Experiences
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;Building+Modern+Web+Applications;Always+Learning.+Always+Building." />
 
-## 👨🏽‍💻 About Me
-
-I'm a Frontend Developer passionate about creating modern, responsive, and intuitive web applications.
-
-Over the past few months, I've built multiple real-world React projects, strengthened my understanding of API integration, state management, reusable components, and modern frontend workflows while deploying production-ready applications.
-
-Currently learning every day and building projects that solve real problems.
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 About Me
 
-### 🌤 Weather App
+💻 Frontend Developer passionate about building clean, responsive and user-friendly web applications.
 
-A responsive React weather application with live weather updates, geolocation, weather recommendations and a 5-day forecast.
+🌍 I enjoy transforming ideas into interactive digital experiences using modern frontend technologies.
 
-🔗 Live Demo  
-https://akj-weather.netlify.app
-
-💻 Source Code  
-https://github.com/AkinJosh8/weather-app
-
----
-
-### 🍔 Chukks Kitchen
-
-A modern food ordering application built with React featuring authentication UI, shopping cart, checkout flow and Local Storage persistence.
-
-🔗 Live Demo  
-https://chukks-bites.netlify.app
-
-💻 Source Code  
-https://github.com/AkinJosh8/food-ordering
-
----
-
-### 👤 GitHub Finder
-
-A React application that searches GitHub users and displays repositories and profile statistics using the GitHub REST API.
-
-🔗 Live Demo  
-https://devpeek.netlify.app
-
-💻 Source Code  
-https://github.com/AkinJosh8/github-user-finder
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
-
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router)
-
----
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
-
----
-
-## 🌱 Currently Learning
+📚 Currently learning:
 
 - React Native
 - Next.js
 - TypeScript
 - Advanced React Patterns
-- Frontend Performance Optimization
+
+🎯 2026 Goals
+
+- Build production-ready React applications
+- Land a Frontend Developer role
+- Contribute to Open Source
+- Build a full-stack JavaScript portfolio
 
 ---
 
-## 📈 GitHub Stats
+# 🛠 Tech Stack
 
-<p align="center">
+### Languages
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkinJosh8&show_icons=true&theme=tokyonight"/>
+<p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkinJosh8&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+
+</p>
+
+### Frameworks
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,vite"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🌟 Featured Projects
 
-<p align="center">
+## 🌤 Weather App
 
-<img src="https://streak-stats.demolab.com?user=AkinJosh8&theme=tokyonight"/>
+A responsive weather application built with React.
 
-</p>
+### Features
+
+- Live Weather
+- 5-Day Forecast
+- Geolocation
+- Dynamic Backgrounds
+- Local Storage
+- Weather Recommendations
+- Responsive Design
+
+🔗 Live
+
+https://akj-weather.netlify.app
+
+💻 Repository
+
+https://github.com/AkinJosh8/weather-app
 
 ---
 
-## 🎯 2026 Goals
+## 🍔 Chukks Kitchen
 
-- 🚀 Build more production-ready React applications
-- 📱 Learn React Native
-- 🌍 Contribute to Open Source
-- 💼 Secure a Frontend Developer role
-- ⚡ Become a Full Stack JavaScript Developer
+Modern food ordering application.
+
+- Shopping Cart
+- Checkout
+- Authentication UI
+- Local Storage
+- Responsive Design
+
+🔗 Live
+
+https://chukks-bites.netlify.app
+
+💻 Repository
+
+https://github.com/AkinJosh8/food-ordering
 
 ---
 
-## 📫 Connect With Me
+## 👤 GitHub Finder
 
-📧 **Email:** Idowujoshua241@gmail.com
+Search GitHub users with React.
 
-💼 **LinkedIn:**  
+- GitHub REST API
+- User Profiles
+- Repository Search
+- Error Handling
+- Responsive Design
+
+🔗 Live
+
+https://devpeek.netlify.app
+
+💻 Repository
+
+https://github.com/AkinJosh8/github-user-finder
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AkinJosh8&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkinJosh8&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AkinJosh8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AkinJosh8&theme=algolia&no-frame=true&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkinJosh8&theme=tokyo-night"/>
+
+---
+
+# 🌐 Connect with Me
+
+📧 **Email**
+
+Idowujoshua241@gmail.com
+
+💼 **LinkedIn**
+
 https://linkedin.com/in/idowu-akinleye-6a4156358
 
 🌍 **Portfolio**
+
 Coming Soon...
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile!
-</p>
+<div align="center">
+
+### "Every shipped project started with one line of code."
+
+⭐ Thanks for visiting!
+
+</div>
