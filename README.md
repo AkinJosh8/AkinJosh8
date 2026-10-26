@@ -18,7 +18,6 @@ I enjoy transforming ideas into interactive digital products while continuously 
 
 📚 Currently learning:
 
-- React Native
 - Next.js
 - TypeScript
 - Advanced React Patterns
