@@ -6,7 +6,7 @@
 
 Lagos, Nigeria | Frontend Developer at Traksend Technologies (remote)
 
-[LinkedIn](https://www.linkedin.com/in/idowu-akinleye) | [Instagram](https://www.instagram.com/akinn_josh) | [Facebook]([https://[(https://www.facebook.com/idowu.akinleye.34]) | [Email](mailto:Idowujoshua241@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/idowu-akinleye) | [Instagram](https://www.instagram.com/akinn_josh) | [Facebook](https://www.facebook.com/idowu.akinleye.34) | [Email](mailto:Idowujoshua241@gmail.com)
 
 </div>
 
