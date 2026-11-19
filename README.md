@@ -1,10 +1,12 @@
 <div align="center">
 
-# Hi, I'm Akinleye Idowu Joshua
+# Hi, I'm Idowu Akinleye
 
-### Frontend Developer • React Developer • Building Beautiful User Experiences
+### Frontend Developer | React, TypeScript & JavaScript
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;Building+Modern+Web+Applications;Always+Learning.+Always+Building." />
+Lagos, Nigeria | Frontend Developer at Traksend Technologies (remote)
+
+[LinkedIn](https://www.linkedin.com/in/idowu-akinleye) | [Instagram](https://www.instagram.com/akinn_josh) | [Facebook](https://www.facebook.com/idowu.akinleye.34) | [Email](mailto:Idowujoshua241@gmail.com)
 
 </div>
 
@@ -12,187 +14,100 @@
 
 ## 🚀 About Me
 
-Frontend Developer committed to building practical web applications that combine clean design, responsive interfaces, and meaningful user experiences.
+I'm a frontend developer who builds responsive, accessible web applications with React, TypeScript & JavaScript. I currently work remotely at Traksend Technologies, where I maintain the frontend of a production web app and ship feature updates alongside a UI/UX designer and backend developers.
 
-I enjoy transforming ideas into interactive digital products while continuously improving through real-world projects, user feedback, and consistent iteration.
+I came to frontend development through an Urban and Regional Planning degree and a data analytics year during NYSC. I build my own projects to learn in public, and I enjoy sharing what I learn with other developers.
 
-📚 Currently learning:
+**Next goals**
 
-- Next.js
-- TypeScript
-- Advanced React Patterns
-
-🎯 2026 Goals
-
-- Build production-ready React applications
-- Land a Frontend Developer role
-- Contribute to Open Source
+- Go deeper with TypeScript and Next.js in production work
+- Contribute to open source
 - Build a full-stack JavaScript portfolio
 
 ---
 
-# 🛠 Tech Stack
+## 💼 Experience
 
-### Languages
+**Frontend Web Developer, Traksend Technologies (Remote)** | May 2026 to present
+Maintain the frontend codebase of a production web app in TypeScript, Next.js, and React, and ship feature updates with a UI/UX designer, backend developer, and fullstack developer.
 
-<p>
+**Frontend Developer Intern, Truemind Innovation Company (Remote)** | Jan to Apr 2026
+Worked in a cross-functional team on the TalentFlow educational platform and owned the Learner Dashboard and Assignment Management features.
 
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-
-</p>
-
-### Frameworks
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,vite"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify"/>
-
-</p>
+**Arcanum Lab (team project)**
+My UX design was selected for implementation. I built it in React, adapted through the codebase's conversion to TypeScript, and presented the code for team lead review.
 
 ---
 
-# 🌟 Featured Projects
+## 🛠 Tech Stack
 
-## 🌤 Weather App
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,supabase,git,github,vscode,netlify"/>
+</p>
 
-A responsive weather application built with React.
-
-### Features
-
-- Live Weather
-- 5-Day Forecast
-- Geolocation
-- Dynamic Backgrounds
-- Local Storage
-- Weather Recommendations
-- Responsive Design
-
-🔗 Live
-
-https://akj-weather.netlify.app
-
-💻 Repository
-
-https://github.com/AkinJosh8/weather-app
+Also: REST APIs, Framer Motion, responsive design, accessibility
 
 ---
 
-## 🍔 Chukks Kitchen
+## 🌟 Featured Projects
 
-Modern food ordering application.
+### 🎂 Isty World
 
-- Shopping Cart
-- Checkout
+A custom interactive birthday experience built as a production web app, with public and private user experiences.
+
+- Supabase-backed guest wish system with data persistence
+- Authenticated admin dashboard and session-based private access
+- Animated transitions, memory slideshow, accessibility considerations, and SEO
+- Built with React, Supabase, and Framer Motion
+
+🔗 [Live](https://istyworld.netlify.app) | 💻 [Code](https://github.com/AkinJosh8/isty-piece)
+
+### 🍔 Chukks Kitchen
+
+A modern food ordering application.
+
+- Shopping cart and checkout
 - Authentication UI
-- Local Storage
-- Responsive Design
+- Local Storage persistence
+- Responsive design
 
-🔗 Live
+🔗 [Live](https://chukks-kitchen.netlify.app) | 💻 [Code](https://github.com/AkinJosh8/food-ordering)
 
-https://chukks-bites.netlify.app
+### 🌤 Weather App
 
-💻 Repository
+A responsive weather application built with React, integrating three API data sources.
 
-https://github.com/AkinJosh8/food-ordering
+- Live weather and 5-day forecast
+- Geolocation
+- Dynamic backgrounds and weather recommendations
+- Loading states and error handling
+- Local Storage and responsive design
 
----
+🔗 [Live](https://akj-weather.netlify.app) | 💻 [Code](https://github.com/AkinJosh8/weather-app)
 
-## 👤 GitHub Finder
+### 👤 DevPeek (GitHub Finder)
 
-Search GitHub users with React.
+Search GitHub users and browse their repositories with React.
 
 - GitHub REST API
-- User Profiles
-- Repository Search
-- Error Handling
-- Responsive Design
+- User profiles and repository search
+- Error handling and responsive design
 
-🔗 Live
-
-https://devpeek.netlify.app
-
-💻 Repository
-
-https://github.com/AkinJosh8/github-user-finder
+🔗 [Live](https://devpeek.netlify.app) | 💻 [Code](https://github.com/AkinJosh8/github-user-finder)
 
 ---
 
-# 📊 GitHub Stats
+## 🌐 Connect with Me
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AkinJosh8&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkinJosh8&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AkinJosh8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AkinJosh8&theme=algolia&no-frame=true&column=4"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkinJosh8&theme=tokyo-night"/>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/AkinJosh8/AkinJosh8/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🌐 Connect with Me
-
-📧 **Email**
-
-Idowujoshua241@gmail.com
-
-💼 **LinkedIn**
-
-https://linkedin.com/in/idowu-akinleye-6a4156358
-
-🌍 **Portfolio**
-
-Coming Soon...
+- 💼 LinkedIn: [linkedin.com/in/idowu-akinleye](https://www.linkedin.com/in/idowu-akinleye)
+- 📸 Instagram: [@akinn_josh](https://www.instagram.com/akinn_josh)
+- 👍 Facebook: [facebook.com/idowu.akinleye.34](https://www.facebook.com/idowu.akinleye.34)
+- 📧 Email: Idowujoshua241@gmail.com
 
 ---
 
 <div align="center">
 
-### "Every shipped project started with one line of code."
-
-⭐ Thanks for visiting!
+*"Every shipped project started with one line of code."*
 
 </div>
