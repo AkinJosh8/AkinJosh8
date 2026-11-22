@@ -2,7 +2,7 @@
 
 # Hi, I'm Idowu Akinleye
 
-### Frontend Developer | React, TypeScript & JavaScript
+### Frontend Developer | React & JavaScript
 
 Lagos, Nigeria | Frontend Developer at Traksend Technologies (Remote)
 
@@ -14,7 +14,7 @@ Lagos, Nigeria | Frontend Developer at Traksend Technologies (Remote)
 
 ## 👋 About Me
 
-I'm a frontend developer who builds responsive, accessible web applications with React, TypeScript, and JavaScript. I currently work remotely at Traksend Technologies, where I maintain the frontend of a production web app and ship feature updates alongside a UI/UX designer and backend developers.
+I'm a frontend developer who builds responsive, accessible web applications with React and JavaScript. I currently work remotely at Traksend Technologies, where I maintain the frontend of a production web app and ship feature updates alongside a UI/UX designer and backend developers.
 
 I came to frontend development through an Urban and Regional Planning degree and a data analytics year during NYSC. I build my own projects to learn, improve my skills, and gain practical experience.
 
@@ -29,7 +29,7 @@ I came to frontend development through an Urban and Regional Planning degree and
 
 **Frontend Development**
 
-HTML · CSS · JavaScript · TypeScript · React · Next.js · Vite · Tailwind CSS
+HTML · CSS · JavaScript · React · Vite · Tailwind CSS
 
 **Tools & Platforms**
 
